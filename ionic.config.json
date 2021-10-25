@@ -1,0 +1,8 @@
+{
+  "name": "mpp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ed69deb4"
+}
